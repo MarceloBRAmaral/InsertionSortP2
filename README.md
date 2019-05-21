@@ -1,4 +1,4 @@
-# InsertionSortP2
+# Insertion Sort - Part 2
 
 In Insertion Sort Part 1, you inserted one element into an array at its correct sorted position. Using the same approach repeatedly, can you sort an entire array?
 

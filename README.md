@@ -8,7 +8,7 @@ In this challenge, print the array after each iteration of the insertion sort, i
 
 For example, there are ***n = 7*** elements in ***arr = [3,4,7,5,6,2,1]***. Working from left to right, we get the following output:
 
-3 4 7 5 6 2 1
+    3 4 7 5 6 2 1
 3 4 7 5 6 2 1
 3 4 5 7 6 2 1
 3 4 5 6 7 2 1

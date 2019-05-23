@@ -15,7 +15,7 @@ For example, there are ***n = 7*** elements in ***arr = [3,4,7,5,6,2,1]***. Work
     2 3 4 5 6 7 1
     1 2 3 4 5 6 7
 
-Function Description
+### Function Description
 
 Complete the insertionSort2 function in the editor below. At each iteration, it should print the array as space-separated integers on a separate line.
 

@@ -31,7 +31,7 @@ The first line contains an integer, ***n***, the size of ***arr***.
 
 The next line contains ***n*** space-separated integers ***arr[i]***.
 
-Constraints
+### Constraints
 
 
 Output Format

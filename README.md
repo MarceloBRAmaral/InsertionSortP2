@@ -12,7 +12,7 @@ For example, there are ***n = 7*** elements in ***arr = [3,4,7,5,6,2,1]***. Work
     3 4 7 5 6 2 1
     3 4 5 7 6 2 1
     3 4 5 6 7 2 1
-2 3 4 5 6 7 1
+    2 3 4 5 6 7 1
 1 2 3 4 5 6 7
 
 Function Description

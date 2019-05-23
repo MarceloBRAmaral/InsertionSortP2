@@ -25,7 +25,7 @@ insertionSort2 has the following parameter(s):
 
 - arr: an array of integers
 
-Input Format
+### Input Format
 
 The first line contains an integer,
 , the size of .

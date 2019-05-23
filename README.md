@@ -21,7 +21,7 @@ Complete the insertionSort2 function in the editor below. At each iteration, it 
 
 insertionSort2 has the following parameter(s):
 
-    n: an integer representing the length of the array 
+- n: an integer representing the length of the array ***arr***
 
     arr: an array of integers
 

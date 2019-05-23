@@ -28,9 +28,8 @@ insertionSort2 has the following parameter(s):
 ### Input Format
 
 The first line contains an integer, ***n***, the size of ***arr***.
-The next line contains space-separated integers
 
-.
+The next line contains ***n*** space-separated integers ***arr[i]***.
 
 Constraints
 

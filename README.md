@@ -23,7 +23,7 @@ insertionSort2 has the following parameter(s):
 
 - n: an integer representing the length of the array ***arr***
 
-    arr: an array of integers
+- arr: an array of integers
 
 Input Format
 

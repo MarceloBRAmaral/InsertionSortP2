@@ -37,7 +37,7 @@ The next line contains ***n*** space-separated integers ***arr[i]***.
 
 ***-10000 <= arr[i] <= 10000, 0 <= i < n***.
 
-Output Format
+### Output Format
 
 On each line, output the entire array at every iteration.
 

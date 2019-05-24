@@ -41,7 +41,7 @@ The next line contains ***n*** space-separated integers ***arr[i]***.
 
 On each line, output the entire array at every iteration.
 
-Sample Input
+### Sample Input
 
 6
 1 4 3 5 6 2

@@ -46,7 +46,7 @@ On each line, output the entire array at every iteration.
     6
     1 4 3 5 6 2
 
-Sample Output
+### Sample Output
 
 1 4 3 5 6 2 
 1 3 4 5 6 2 

@@ -64,8 +64,8 @@ Print ***arr***
 
 Test position ***2*** against positions ***1*** and ***0***:
 
-, new position may be
-. Keep checking.
+- ***3 < 4***, new position may be ***1***. Keep checking.
+
 , so insert at position
 
     and move others to the right.

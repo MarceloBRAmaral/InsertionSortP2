@@ -62,9 +62,7 @@ Test position ***1*** against position ***0***: ***4 > 1***, no more to check, n
 
 Print ***arr***
 
-Test position against positions and
-
-:
+Test position ***2*** against positions ***1*** and ***0***:
 
 , new position may be
 . Keep checking.

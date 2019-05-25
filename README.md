@@ -57,7 +57,8 @@ On each line, output the entire array at every iteration.
 ### Explanation
 
 Skip testing ***1*** against itself at position ***0***. It is sorted.
-Test position against position : , no more to check, no change.
+
+Test position ***1*** against position ***0***: ***4 > 1***, no more to check, no change.
 Print
 Test position against positions and
 

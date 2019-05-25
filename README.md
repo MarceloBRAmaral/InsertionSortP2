@@ -59,7 +59,9 @@ On each line, output the entire array at every iteration.
 Skip testing ***1*** against itself at position ***0***. It is sorted.
 
 Test position ***1*** against position ***0***: ***4 > 1***, no more to check, no change.
-Print
+
+Print ***arr***
+
 Test position against positions and
 
 :

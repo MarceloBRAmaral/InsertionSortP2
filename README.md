@@ -71,7 +71,9 @@ Test position ***2*** against positions ***1*** and ***0***:
 Print ***arr***
 
 Test position ***3*** against positions ***2, 1, 0*** (as necessary): no change.
-Print
+
+Print ***arr***
+
 Test position against positions : no change.
 Print
 Test position against positions , insert at position and move others to the right.

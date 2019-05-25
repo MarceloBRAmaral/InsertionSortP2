@@ -54,7 +54,7 @@ On each line, output the entire array at every iteration.
     1 3 4 5 6 2 
     1 2 3 4 5 6 
 
-Explanation
+### Explanation
 
 Skip testing
 against itself at position . It is sorted.
